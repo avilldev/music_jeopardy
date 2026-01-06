@@ -1,0 +1,9 @@
+Sound effects and loop music from Pixabay
+https://pixabay.com/
+
+Audio editing from AudioMass
+https://audiomass.co/
+
+Project originaly done in p5.js website:
+View: https://editor.p5js.org/special_magic/full/omLcx23lF
+Edit: https://editor.p5js.org/special_magic/sketches/omLcx23lF

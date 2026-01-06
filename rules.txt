@@ -1,0 +1,8 @@
+Here are the rules for the game. They follow a classic Jeopardy style game. You could say this is normal Jeopardy and Double Jeopardy combined in one:
+1) One team starts by picking a card. The card will be opened and the sound button will be pressed. Any member from any team can answer as soon as they have an answer (to be eligible to answer you have to clearly show that you stoop up). For each card, only one member of the ones that stood up from each team can answer.
+2) If the member of the team gets it right, the score is as follow.
+  - If only one part was answered, either song name or singer, the team gets the calue shown on the card.
+  - If both parts are answered, the team gets double the value shown on the card.
+3) The same aplies to gettin the score wrong, but by subtracting points.
+4) As soon as one team gets any part of the question right, it is moved to the next round. The team that got a right answer chooses the next card.
+5) If no team was able to get the question right, the last team that choose the card will get to pick again.
